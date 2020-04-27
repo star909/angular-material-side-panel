@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "name": "Baristha",
+        "lat": -25.363,
+        "lng": 131.044,
+        "logo": "./assets/images/barista.jpg",
+        "address": " 16/11-767, Rmz, Block A, Hitech City Phase 2, Hyderabad, Telangana 500081",
+        "value": 4.5,
+        "operating_hours": "24hrs",
+        "number": 6534546547657,
+        "details": [
+            {
+                "name": "ABC",
+                "date": "January 31,2018",
+                "rating": 2,
+                "comments": "Its online services include the iTunes Store, the iOS App Store, Mac App Store, Apple Music, Apple TV+, iMessage, and iCloud."
+            },
+            {
+                "name": "ABC",
+                "date": "January 31,2018",
+                "rating": 2,
+                "comments": "Its online services include the iTunes Store, the iOS App Store, Mac App Store, Apple Music, Apple TV+, iMessage, and iCloud."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "CCD",
+        "lat": 55.751244,
+        "lng": 37.618423,
+        "logo": "./assets/images/ccd.png",
+        "address": " 17 to 20, GF, South India Shopping Mall Survey No 166/P, Kukatpally, Hyderabad, Telangana 500072",
+        "value": 3,
+        "operating_hours": "24hrs",
+        "number": 6534546547657,
+        "details": [
+            {
+                "name": "ABC",
+                "date": "January 31,2018",
+                "rating": 2,
+                "comments": "JLL is a global real estate services firm specialising in commercial property and investment management, providing services for real estate owners."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "McDonalds",
+        "lat": 36.778259,
+        "lng": -119.417931,
+        "logo": "./assets/images/McD.png",
+        "address": " Jubilee Hills Hardcastle Restaurants Pvt Ltd plot no 471 , Jubilee Hills, Hyderabad, Telangana",
+        "value": 4,
+        "operating_hours": "24hrs",
+        "number": 6534546547657,
+        "details": [
+            {
+                "name": "ABC",
+                "date": "January 31,2018",
+                "rating": 2,
+                "comments": "Get software and technology solutions from SAP, the leader in business applications. Run simple with the best in cloud, analytics, mobile and IT solutions."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "StarBucks",
+        "lat": 35.652832,
+        "lng": 139.839478,
+        "logo": "./assets/images/starbucks.jpeg",
+        "address": " Anand Silicon Chip, SN 1, 1A, 2A, 2B, 14 Muncipal No 8/1/305 No 306, Shaikpet, Hyderabad, Telangana 500008",
+        "value": 5,
+        "operating_hours": "24hrs",
+        "number": 6534546547657,
+        "details": [
+            {
+                "name": "ABC",
+                "date": "January 31,2018",
+                "rating": 2,
+                "comments": "Goldman Sachs India. Our businesses in India serve leading corporate and institutional clients across the country. Following a ten-year joint venture."
+            }
+        ]
+    }
+]
